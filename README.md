@@ -34,6 +34,7 @@ Key fields include Order Date, Customer, Product, Category, Sub-Category, Region
 3. Used SQL to answer core business questions.
 4. Built Tableau visualizations and an interactive dashboard.
 5. Converted findings into business insights and recommendations.
+6. Developed a dashboard-based reporting workflow to reduce repetitive manual analysis.
 
 ## SQL Business Questions
 1. What is the overall business performance?
@@ -88,7 +89,7 @@ For example, **Cisco TelePresence System EX90** generated approximately **$22.6K
 5. **Monitor profitable growth:** Track Sales, Profit, and Profit Margin together.
 
 ## Project Outcome
-The analysis identified regional profitability differences, loss-making product segments, weak Furniture profitability, and high-discount transactions associated with negative margins. SQL provides reproducible business analysis, while Tableau provides an interactive view for decision-making.
+The analysis identified regional profitability differences, loss-making product segments, weak Furniture profitability, and high-discount transactions associated with negative margins. The Tableau dashboard improved sales and profitability analysis efficiency while reducing repetitive manual reporting by providing an interactive view of sales trends, regional performance, product performance, and profitability.
 
 ## Repository Structure
 ```text
